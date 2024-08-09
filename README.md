@@ -15,6 +15,8 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Configuring SOHO Network](https://youtu.be/-L7PpfXU5D4?si=3eO9y_apT-AoMWsc)
+- [Comparing Ports And Protocals](https://youtu.be/LonHyAFLOY4?si=OzsdsGlXvV_cWQZs)
+- [Monitoring Performance and Event Viewer](https://youtu.be/_IDDT5xVbxM?si=GMisEo-LXwKv670N)
 
 
 <h2> 🤳 Connect with me:</h2>
