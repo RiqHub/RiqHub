@@ -1,11 +1,11 @@
 <h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@TechBetsandChecks">YouTuber</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects: (UNDER CONSTRUCTION) :construction:</h2>
+<h2>👨‍💻 Projects: (UNDER CONSTRUCTION) :construction:</h2>
 
-- <b>Category in Bold</b>
+- <b>CyberSecurity</b>
   - [Title](HTTP LINK)
  
-- <b>Category in Bold</b>
+- <b>General IT</b>
   - [Title](HTTP LINK)
  
 - <b>Category in Bold</b>
