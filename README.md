@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects: (UNDER CONSTRUCTION) :construction:</h2>
 
 - <b>CyberSecurity</b>
-  - [Title](HTTP LINK)
+  - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
  
 - <b>General IT</b>
   - [Title](HTTP LINK)
