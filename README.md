@@ -1,16 +1,11 @@
 <h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@TechBetsandChecks">YouTuber</a></h1>
 
-<h2>👨‍💻 Projects: (UNDER CONSTRUCTION) :construction:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>CyberSecurity</b>
   - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
+  - [Azure SOC](https://github.com/RiqHub/Azure-SOC)
  
-- <b>General IT</b>
-  - [Title](HTTP LINK)
- 
-- <b>Category in Bold</b>
-  - [Title](HTTP LINK)
-
 
 <h2>📺 Popular YouTube Videos</h2>
 
