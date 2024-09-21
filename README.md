@@ -4,7 +4,7 @@
 
 - <b>CyberSecurity</b>
   - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
-  - [Azure SOC](https://github.com/RiqHub/Azure-SOC)
+  - [Creating a Live SOC/Honeynet in Azure](https://github.com/RiqHub/Azure-SOC)
  
 
 <h2>📺 Popular YouTube Videos</h2>
