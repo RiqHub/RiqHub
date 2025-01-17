@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@TechBetsandChecks">YouTuber</a></h1>
+<h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
