@@ -1,10 +1,12 @@
 <h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>
 
 <h2>🕵️ Security Operations and Incident Responce Projects</h2>
+
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/RiqHub/Azure-SOC)
   - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
   
-<h2>⚠️ Vulnerability Management Projects</h2> 
+<h2>⚠️ Vulnerability Management Projects</h2>
+
   - [Vulnerability Management Program Implementation](https://github.com/RiqHub/vulnerability-management-program)
 
 <h2>💻 System Administration and Help Desk Projects</h2>  
