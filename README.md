@@ -9,7 +9,8 @@
 
   - [Vulnerability Management Program Implementation](https://github.com/RiqHub/vulnerability-management-program)
 
-<h2>💻 System Administration and Help Desk Projects</h2>  
+<h2>💻 System Administration and Help Desk Projects</h2>
+
   - [Help Desk Lab (In Progress)](https://github.com/RiqHub/Help-Desk-Lab)
  
 
