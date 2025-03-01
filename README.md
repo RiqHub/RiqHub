@@ -1,10 +1,13 @@
 <h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 Projects:</h2>
-
-- <b>CyberSecurity</b>
+<h2>🕵️ Security Operations and Incident Responce Projects</h2>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/RiqHub/Azure-SOC)
   - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
+  
+<h2>⚠️ Vulnerability Management Projects</h2> 
+  - [Vulnerability Management Program Implementation](https://github.com/RiqHub/vulnerability-management-program)
+
+<h2>💻 System Administration and Help Desk Projects</h2>  
   - [Help Desk Lab (In Progress)](https://github.com/RiqHub/Help-Desk-Lab)
  
 
@@ -25,17 +28,3 @@
 [youtube]: https://www.https://www.youtube.com/@TechBetsandChecks
 [linkedin]: https://https://www.linkedin.com/in/rudbervalenzuelacs/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
