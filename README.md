@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity Professional</a>
 
-<h2>🕵️ Security Operations and Incident Responce Projects</h2>
+<h2>🕵️ Security Operations and Incident Response Projects</h2>
 
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/RiqHub/Azure-SOC)
   - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
