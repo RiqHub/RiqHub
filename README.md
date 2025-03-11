@@ -4,6 +4,7 @@
 
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/RiqHub/Azure-SOC)
   - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
+  - [Threat Hunting Scenerio](https://github.com/RiqHub/Threat-hunting-scenerio-TOR)
   
 <h2>⚠️ Vulnerability Management Projects</h2>
 
