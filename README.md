@@ -22,6 +22,6 @@
 
 
 
-[youtube]: https://www.https://www.youtube.com/@TechBetsandChecks
-[linkedin]: https://https://www.linkedin.com/in/rudbervalenzuelacs/
+[youtube]: https://www.youtube.com/@TechBetsandChecks
+[linkedin]: https://www.linkedin.com/in/rudbervalenzuelacs/
 
