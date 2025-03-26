@@ -10,6 +10,7 @@
 <h2>⚠️ Vulnerability Management Projects</h2>
 
   - [Vulnerability Management Program Implementation](https://github.com/RiqHub/vulnerability-management-program)
+  - [PowerShell and Bash Vulnerability Remidiation Scripts](https://github.com/RiqHub/vulnerability-management-program/tree/main/STIGS)
 
 <h2>💻 System Administration and Help Desk Projects</h2>
 
