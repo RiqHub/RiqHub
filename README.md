@@ -9,7 +9,7 @@
   -  [Ransomeware Threat Hunting Scenario](https://github.com/RiqHub/Threat-hunting-scenerio-TOR)
   - [Impossible Travel Scenario](https://github.com/RiqHub/SOC-Scenarios)
   - [TOR Browser Scenario](https://github.com/RiqHub/TOR-Scenario-Redo)
-  - [Splunk Lab](https://github.com/RiqHub/Splunk-Lab)
+
 
 <h2>⚠️ Vulnerability Management Projects</h2>
 
