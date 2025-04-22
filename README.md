@@ -3,8 +3,6 @@
 <h2>🕵️ Security Operations and Incident Response Projects</h2>
 
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/RiqHub/Azure-SOC)
-
-**Threat Hunting**
   - [Suspicoius PowerShell Script](https://github.com/RiqHub/Suspicious-PowerShell-Script-Scenario)
   -  [Ransomeware Threat Hunting Scenario](https://github.com/RiqHub/Threat-hunting-scenerio-TOR)
   - [Impossible Travel Scenario](https://github.com/RiqHub/SOC-Scenarios)
