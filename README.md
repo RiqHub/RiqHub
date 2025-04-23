@@ -12,6 +12,7 @@
 **Threat Hunting**
   - [TOR Browser Scenario](https://github.com/RiqHub/TOR-Scenario-Redo)
   - [Ransomeware Threat Hunting Scenario](https://github.com/RiqHub/Threat-hunting-scenerio-TOR)
+  - [Detecting Internet Facing Assets](https://github.com/RiqHub/publicfacingendpoint)
 
 
 <h2>⚠️ Vulnerability Management Projects</h2>
