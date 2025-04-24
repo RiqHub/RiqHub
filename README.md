@@ -22,7 +22,7 @@
 
 <h2>💻 System Administration and Help Desk Projects</h2>
 
-  - [Help Desk Lab (In Progress)](https://github.com/RiqHub/Help-Desk-Lab)
+  - [Help Desk Lab](https://github.com/RiqHub/Help-Desk-Lab)
  
 
 <h2> 🤳 Connect with me:</h2>
