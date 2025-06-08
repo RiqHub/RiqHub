@@ -21,6 +21,7 @@
   - [PowerShell and Bash Vulnerability Remidiation Scripts](https://github.com/RiqHub/vulnerability-management-program/tree/main/STIGS)
 
 <h2>🕸️ Networking </h2>
+
   - [Small Office Home Office Lab](https://github.com/RiqHub/SOHO)
 
 <h2>💻 System Administration and Help Desk Projects</h2>
