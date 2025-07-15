@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Cybersecurity/Networking Professional</a>
+<h1>Hi, I'm Rudber! <br/> <a href="https://www.linkedin.com/in/rudbervalenzuelacs/">Information Technology Professional</a>
 
 <h2>🕵️ Security Operations and Incident Response Projects</h2>
 
