@@ -23,6 +23,7 @@
 <h2>🕸️ Networking Projects </h2>
 
   - [Small Office Home Office Lab](https://github.com/RiqHub/SOHO)
+  - [Two Branch Topology](https://github.com/RiqHub/Two-Branch-Topology)
 
 <h2>💻 System Administration and Help Desk Projects</h2>
 
